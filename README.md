@@ -69,6 +69,7 @@ A curated list of peer-to-peer, federated, and local-first protocols, applicatio
 - [Fedify](https://fedify.dev/) - A TypeScript framework for building federated server applications on ActivityPub.
 - [Freenet](https://freenet.org/) - A decentralized, real-time platform for building and running applications entirely on a peer-to-peer network; a ground-up rewrite by the original Freenet founder (the classic Freenet lives on as Hyphanet).
 - [Holochain](https://github.com/holochain/holochain) - A peer-to-peer protocol for data sharing and integrity, backed by authoritative hashchains for data provenance.
+- [Nostr Double Ratchet](https://github.com/irislib/nostr-double-ratchet) - TypeScript and Rust libraries for end-to-end encrypted messaging over Nostr relays, using Double Ratchet for one-to-one sessions.
 - [Pear](https://pears.com/) - A peer-to-peer application runtime and deployment system built on Hypercore, by Holepunch.
 - [Spritely](https://spritely.institute/) - Distributed object-capability framework (Goblins, OCapN) for building the decentralized social web.
 - [Veilid](https://veilid.com/) - An open-source, peer-to-peer, mobile-first networked application framework with strong privacy, by Cult of the Dead Cow.
